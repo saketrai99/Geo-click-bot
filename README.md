@@ -35,3 +35,5 @@ docker run --rm geo-bot
 | `bot/utils.py` | Scroll & click helper functions |
 
 ## License
+
+MIT – use at your own risk.

@@ -1,0 +1,12 @@
+[
+  {
+    "ip": "proxy1.example.com",
+    "port": 8080,
+    "country": "US"
+  },
+  {
+    "ip": "proxy2.example.com",
+    "port": 8080,
+    "country": "IN"
+  }
+]
